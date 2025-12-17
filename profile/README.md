@@ -1,1 +1,1 @@
-# TetraBit
+# TetraBit Solutions
